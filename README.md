@@ -16,7 +16,7 @@ Este repositorio contiene un registro organizado de mis certificaciones y cursos
 ---
 
 ## 📚 Cursos
-- [Data Engineering](./Cursos/Data Engineering)
+- [Data Engineering](./Cursos/Data_Engineering)
 - [Legislación Laboral – Costa Rica](./Otros-Cursos/Legislacion-Laboral/README.md)
 
 ---
