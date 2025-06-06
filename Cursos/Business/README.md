@@ -1,7 +1,6 @@
 # ⚖️ Labor Law Training – Costa Rica
-- 📅 Completion Date: January 2024  
-- 📜 Issued by: [Include the organization or platform, if available]  
-- 🔗 [View Certificate (if available)](#)
+- 📅 Completion Date: December 2024  
+- 📜 Issued by:  Solventum
 
 ## 📝 Description
 
@@ -15,4 +14,4 @@ This training provided foundational knowledge of Costa Rican labor legislation. 
 It strengthened understanding of human resources governance and labor compliance in the Costa Rican context.
 
 ## 📎 Certificate
-![Labor Law Certificate](./certificate.png)
+![Labor Law Certificate](./certificate.jpeg)
