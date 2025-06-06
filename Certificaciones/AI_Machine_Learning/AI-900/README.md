@@ -1,18 +1,19 @@
-# AI Machine Learning
+🤖 AI & Machine Learning
 
-- 📅 Fecha de obtención: [Tu fecha aquí]
-- 📜 Emitido por: Microsoft
-- 🔗 [Ver credencial en línea](#) <!-- reemplaza con tu enlace si tienes uno -->
+📅 Issued: April 2025
+📜 Issued by: Microsoft
+🔗 [View Credential Online](https://learn.microsoft.com/api/credentials/share/es-es/MelvinAlfaroDalolio-8357/5E88B37574AA015E?sharingId)
 
-## 📝 Descripción
+📝 Description
+The AI-900: Microsoft Azure AI Fundamentals certification validates foundational knowledge of artificial intelligence (AI) and how it is implemented using Microsoft Azure services. It covers essential topics such as:
 
-La certificación AZ-900 valida conocimientos fundamentales sobre los servicios en la nube y cómo se proporcionan con Microsoft Azure. Abarca conceptos como:
+- AI and machine learning principles
+- Computer vision and natural language processing (NLP)
+- Conversational AI and responsible AI practices
+- Azure AI tools and services
 
-- Principios de la computación en la nube
-- Servicios principales de Azure
-- Precios y SLA de Azure
-- Gobernanza y cumplimiento
+This certification is ideal for individuals exploring AI solutions or working in roles where AI technologies are applied, even without a technical background.
 
-## 📎 Certificado
+📎 Certificate
 
-![Certificado AZ-900](./certificado.pdf) <!-- O certificado.png si es imagen -->
+![AI-900 Certificate](./Certificaciones/AI_Machine_Learning/AI-900/certificate.png)
