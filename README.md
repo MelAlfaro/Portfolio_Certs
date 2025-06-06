@@ -2,6 +2,7 @@
 
 Este repositorio contiene un registro organizado de mis certificaciones y cursos completados en diversas áreas de tecnología. Está pensado para ser una evidencia pública de mi formación continua, especialmente en temas relacionados con Ingeniería de datos, la computación en la nube, inteligencia artificial y otros campos de IT.
 
+Es posible encontrar en el siguiente archivo, un resumen con todos las certificaciones obtenidas: (./certificaciones-y-cursos/resumen certificaciones.md)
 ---
 
 ## 🏆 Certificaciones
