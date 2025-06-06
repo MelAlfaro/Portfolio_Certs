@@ -8,7 +8,7 @@ Este repositorio contiene un registro organizado de mis certificaciones y cursos
 
 ### ☁️ Cloud Computing
 - [AZ-900: Microsoft Azure Fundamentals](./Certificaciones/Cloud_Computing/AZ-900/README.md)
-- [DP-900: Microsoft Azure Data Fundamentals](./Certificaciones/Cloud-Computing/DP-900/README.md)
+- [DP-900: Microsoft Azure Data Fundamentals](./Certificaciones/Cloud_Computing/DP-900/README.md)
 
 ### 🤖 AI & Machine Learning
 - [AI-900: Microsoft Azure AI Fundamentals](./Certificaciones/AI_Machine_Learning/AI-900/README.md)

@@ -1,18 +1,20 @@
-# Data Engineering
+# 🧩 Microsoft Fabric Data Engineer
+- 📅 Expected Certification Date: 2025  
+- 📜 Issued by: Microsoft  
+- 🔗 [Credential (TBD)](#)
 
-- 📅 Fecha de obtención: [Tu fecha aquí]
-- 📜 Emitido por: Microsoft
-- 🔗 [Ver credencial en línea](#) <!-- reemplaza con tu enlace si tienes uno -->
+## 📝 Description
 
-## 📝 Descripción
+The **DP-700: Microsoft Fabric Data Engineer** certification validates foundational and practical knowledge of designing and implementing data solutions using Microsoft Fabric. It focuses on enabling data-driven decision-making through modern analytics and governance features.
 
-La certificación AZ-900 valida conocimientos fundamentales sobre los servicios en la nube y cómo se proporcionan con Microsoft Azure. Abarca conceptos como:
+The certification covers:
 
-- Principios de la computación en la nube
-- Servicios principales de Azure
-- Precios y SLA de Azure
-- Gobernanza y cumplimiento
+- Ingesting, transforming, and serving data using Microsoft Fabric
+- Implementing lakehouses and data warehouses
+- Managing pipelines and orchestrations with Data Factory
+- Modeling data using semantic models and DAX
+- Managing security, compliance, and governance in Fabric
 
-## 📎 Certificado
+## 📎 Certificate
 
-![Certificado AZ-900](./certificado.pdf) <!-- O certificado.png si es imagen -->
+![DP-700 Certificate](../certificate.png)

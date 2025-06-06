@@ -1,18 +1,18 @@
-# Business
+# ⚖️ Labor Law Training – Costa Rica
+- 📅 Completion Date: January 2024  
+- 📜 Issued by: [Include the organization or platform, if available]  
+- 🔗 [View Certificate (if available)](#)
 
-- 📅 Fecha de obtención: [Tu fecha aquí]
-- 📜 Emitido por: Microsoft
-- 🔗 [Ver credencial en línea](#) <!-- reemplaza con tu enlace si tienes uno -->
+## 📝 Description
 
-## 📝 Descripción
+This training provided foundational knowledge of Costa Rican labor legislation. The course covered key aspects of employment law, including:
 
-La certificación AZ-900 valida conocimientos fundamentales sobre los servicios en la nube y cómo se proporcionan con Microsoft Azure. Abarca conceptos como:
+- Workers’ rights and employer obligations  
+- Employment contracts and labor relations  
+- Social security, benefits, and working conditions  
+- Termination processes and legal compliance
 
-- Principios de la computación en la nube
-- Servicios principales de Azure
-- Precios y SLA de Azure
-- Gobernanza y cumplimiento
+It strengthened understanding of human resources governance and labor compliance in the Costa Rican context.
 
-## 📎 Certificado
-
-![Certificado AZ-900](./certificado.pdf) <!-- O certificado.png si es imagen -->
+## 📎 Certificate
+![Labor Law Certificate](./certificate.png)
