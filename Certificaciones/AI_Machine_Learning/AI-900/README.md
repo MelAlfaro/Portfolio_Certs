@@ -16,4 +16,4 @@ This certification is ideal for individuals exploring AI solutions or working in
 
 📎 Certificate
 
-![AI-900 Certificate](./Certificaciones/AI_Machine_Learning/AI-900/certificate.png)
+![AI-900 Certificate](./certificate.png)
