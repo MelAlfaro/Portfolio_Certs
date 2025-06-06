@@ -18,19 +18,19 @@ Este repositorio contiene un registro organizado de mis certificaciones y cursos
 ## 📚 Cursos
 
 ### 🛠️ Data Engineering
-- [Data Engineering](./Cursos/Data_Engineering)
+- [Data Engineering](./Cursos/Data_Engineering/README.md)
 
 ### 🗄️Databases
-- [Databases](./Cursos/Databases)
+- [Databases](./Cursos/Databases/README.md)
 
 ### 💻 Programming
-- [Python](./Cursos/Python)
+- [Python](./Cursos/Python/README.md)
 
 ### 🧩 Methodologies
-- [Agile & Scrum](./Cursos/Agile_and_Scrum)
+- [Agile & Scrum](./Cursos/Agile_and_Scrum/README.md)
 
 ### 🏛️ Business
-- [Legislación Laboral – Costa Rica](./Cursos/Legislacion_laboral_CR)
+- [Legislación Laboral – Costa Rica](./Cursos/Legislacion_laboral_CR/README.md)
 
 
 ---
