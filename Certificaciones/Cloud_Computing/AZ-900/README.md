@@ -1,18 +1,17 @@
-# AZ-900: Microsoft Azure Fundamentals
+☁️ Cloud Fundamentals
+- 📅 Issued: March 2025
+- 📜 Issued by: Microsoft
+- 🔗 [View Credential Online](https://learn.microsoft.com/api/credentials/share/en-us/MelvinAlfaroDalolio-8357/9A16FFF3F3D30531?sharingId)
 
-- 📅 Fecha de obtención: [Tu fecha aquí]
-- 📜 Emitido por: Microsoft
-- 🔗 [Ver credencial en línea](#) <!-- reemplaza con tu enlace si tienes uno -->
+📝 Description
+The AZ-900: Microsoft Azure Fundamentals certification demonstrates foundational knowledge of cloud concepts and Microsoft Azure services. Key topics include:
+- Cloud computing principles and service models (IaaS, PaaS, SaaS)
+- Core Azure services (compute, networking, storage, databases)
+- Azure pricing, SLAs, and lifecycle
+- Governance, compliance, and identity basics
 
-## 📝 Descripción
+It’s designed for individuals new to cloud computing or those in non-technical roles who need a basic understanding of Azure.
 
-La certificación AZ-900 valida conocimientos fundamentales sobre los servicios en la nube y cómo se proporcionan con Microsoft Azure. Abarca conceptos como:
+📎 Certificate
 
-- Principios de la computación en la nube
-- Servicios principales de Azure
-- Precios y SLA de Azure
-- Gobernanza y cumplimiento
-
-## 📎 Certificado
-
-![Certificado AZ-900](./certificado.pdf) <!-- O certificado.png si es imagen -->
+![AZ-900 Certificate](./certificate.png)

@@ -1,18 +1,17 @@
-# DP-900: Microsoft Azure Data Fundamentals
+📊 Data Fundamentals
+- 📅 Issued: March 2025
+- 📜 Issued by: Microsoft
+- 🔗 [View Credential Online](https://learn.microsoft.com/api/credentials/share/en-us/MelvinAlfaroDalolio-8357/7E1D6847D13D94B7?sharingId)
 
-- 📅 Fecha de obtención: [Tu fecha aquí]
-- 📜 Emitido por: Microsoft
-- 🔗 [Ver credencial en línea](#)
+📝 Description
+The DP-900: Microsoft Azure Data Fundamentals certification validates foundational knowledge of core data concepts and how they are implemented using Microsoft Azure data services. It covers topics such as:
+- Relational and non-relational data types
+- Data storage and processing options in Azure
+- Fundamentals of data analytics and data workloads
+- Core services like Azure SQL, Cosmos DB, and Azure Synapse Analytics
 
-## 📝 Descripción
+This certification is ideal for those starting a career in data-related roles or working with data solutions in Azure.
 
-DP-900 evalúa conocimientos básicos sobre conceptos de bases de datos en Azure, incluyendo:
+📎 Certificate
 
-- Modelado de datos relacionales y no relacionales
-- Servicios de datos en la nube
-- Fundamentos de análisis de datos
-- Introducción a herramientas como Azure SQL, Cosmos DB y Synapse Analytics
-
-## 📎 Certificado
-
-![Certificado DP-900](./certificado.pdf)
+![DP-900 Certificate](./certificate.png)
