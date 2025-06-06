@@ -24,13 +24,13 @@ Este repositorio contiene un registro organizado de mis certificaciones y cursos
 - [Databases](./Cursos/Databases/README.md)
 
 ### 💻 Programming
-- [Python](./Cursos/Python/README.md)
+- [Python](./Cursos/Databases/README.md)
 
 ### 🧩 Methodologies
-- [Agile & Scrum](./Cursos/Agile_and_Scrum/README.md)
+- [Agile & Scrum](./Cursos/Methodologies/README.md)
 
 ### 🏛️ Business
-- [Legislación Laboral – Costa Rica](./Cursos/Legislacion_laboral_CR/README.md)
+- [Legislación Laboral – Costa Rica](./Cursos/Business/README.md)
 
 
 ---

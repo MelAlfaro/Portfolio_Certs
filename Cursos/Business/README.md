@@ -1,4 +1,4 @@
-# Agile and Scrum Methodologies
+# Business
 
 - 📅 Fecha de obtención: [Tu fecha aquí]
 - 📜 Emitido por: Microsoft
