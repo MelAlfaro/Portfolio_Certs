@@ -20,7 +20,7 @@
 - 🔗 [View Credential Online](https://learn.microsoft.com/api/credentials/share/en-us/MelvinAlfaroDalolio-8357/7E1D6847D13D94B7?sharingId)
 
 
-<br><br>
+<br><br><br>
 
 # COURSES
 ## 🛠️ Data Engineering
@@ -127,7 +127,8 @@
 - 📜 Issued by: 3M 
 - 📎Certificate: [Certified Scrum Master](./Agile_and_Scrum/Certified_Scrum_Master.pdf)
 
-## ⚖️ Labor Law Training – Costa Rica
+## 🏛️ Business
+### Labor Law Training – Costa Rica
 - 📅 Completion Date: December 2024  
 - 📜 Issued by:  Solventum
 - 📎Certificate: [Labor Law Certificate](./certificate.jpeg)

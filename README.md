@@ -1,10 +1,13 @@
-# 🎓 Certificaciones y Cursos por Temática
+# 🎓 Certifications and Courses by Topic
 
-Este repositorio contiene un registro organizado de mis certificaciones y cursos completados en diversas áreas de tecnología. Está pensado para ser una evidencia pública de mi formación continua, especialmente en temas relacionados con Ingeniería de datos, la computación en la nube, inteligencia artificial y otros campos de IT. Es posible también encontrar en el siguiente archivo, un resumen con todos las certificaciones obtenidas [aquí](./resumen_certificaciones.md)
+This repository contains an organized record of my certifications and completed courses across various technology areas. It is intended as a public showcase of my ongoing learning journey, especially in fields related to Data Engineering, Cloud Computing, Artificial Intelligence, and other areas of IT.
+You can also find a summary of all obtained certifications in the following file: [here](./resumen_certificaciones.md)
 
 ---
 
-## 🏆 Certificaciones
+<br><br>
+
+## 🏆 Certifications
 
 ### ☁️ Cloud Computing
 - [AZ-900: Microsoft Azure Fundamentals](./Certificaciones/Cloud_Computing/AZ-900/README.md)
@@ -14,8 +17,9 @@ Este repositorio contiene un registro organizado de mis certificaciones y cursos
 - [AI-900: Microsoft Azure AI Fundamentals](./Certificaciones/AI_Machine_Learning/AI-900/README.md)
 
 ---
+<br><br>
 
-## 📚 Cursos
+## 📚 Courses
 
 ### 🛠️ Data Engineering
 - [Data Engineering](./Cursos/Data_Engineering/README.md)
@@ -32,7 +36,9 @@ Este repositorio contiene un registro organizado de mis certificaciones y cursos
 ### 🏛️ Business
 - [Legislación Laboral – Costa Rica](./Cursos/Business/README.md)
 
+<br>
 
 ---
 
-> 🗂 Cada certificado tiene su propio archivo `README.md` con detalles como la descripción del contenido, la fecha de obtención y el archivo del certificado correspondiente.
+> 🗂 Each certificate has its own `README.md` file with details such as a description of the content, the date of completion, and the corresponding certificate file.
+
