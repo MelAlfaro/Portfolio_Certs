@@ -1,6 +1,6 @@
 # 🗄️ Databases
 
-## Database Desing
+## Database Design
 - 📅 Completion Date: May 2025 
 - 📜 Issued by: DataCamp 
 - 📎Certificate: [Database Design](./Datacamp-Database_Design/certificate.pdf)

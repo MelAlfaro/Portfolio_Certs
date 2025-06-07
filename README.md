@@ -24,7 +24,7 @@ Este repositorio contiene un registro organizado de mis certificaciones y cursos
 - [Databases](./Cursos/Databases/README.md)
 
 ### 💻 Programming
-- [Python](./Cursos/Databases/README.md)
+- [Python](./Cursos/Programming/README.md)
 
 ### 🧩 Methodologies
 - [Agile & Scrum](./Cursos/Methodologies/README.md)
