@@ -23,5 +23,5 @@
 ## Especialización de Ingeniería de Datos e IA con Azure
 - 📅 Completion Date: Feb 2025 
 - 📜 Issued by: DataCamp
-- 🔗 [View Certificate](https://smartdata.com.pe/certificados/index.php?id=2025022409321049)
+- 🔗 [View Credential Online](https://smartdata.com.pe/certificados/index.php?id=2025022409321049)
 - 📎 Certificate [Especialización de Ingeniería de Datos e IA con Azure](./Smart_Data-Especializacion_de_Ingenieria_de_datos_e_IA_con_Azure/certificate.png)

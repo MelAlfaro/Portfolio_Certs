@@ -1,18 +1,32 @@
-# Databases
+# 🗄️ Databases
 
-- 📅 Fecha de obtención: [Tu fecha aquí]
-- 📜 Emitido por: Microsoft
-- 🔗 [Ver credencial en línea](#) <!-- reemplaza con tu enlace si tienes uno -->
+## Database Desing
+- 📅 Completion Date: May 2025 
+- 📜 Issued by: DataCamp 
+- 📎Certificate: [Database Design](./Datacamp-Database_Design/certificate.pdf)
 
-## 📝 Descripción
+## Intermediate SQL
+- 📅 Completion Date: May 2025 
+- 📜 Issued by: DataCamp 
+- 📎Certificate: [Intermediate SQL](./Datacamp-Intermediate_SQL/certificate.pdf)
 
-La certificación AZ-900 valida conocimientos fundamentales sobre los servicios en la nube y cómo se proporcionan con Microsoft Azure. Abarca conceptos como:
+## Introduction to relational databases in SQL
+- 📅 Completion Date: May 2025 
+- 📜 Issued by: DataCamp 
+- 📎Certificate: [Introduction to relational databases in SQL](./Datacamp-Introduction_to_Relational_Databases_in_SQL/certificate.pdf)
 
-- Principios de la computación en la nube
-- Servicios principales de Azure
-- Precios y SLA de Azure
-- Gobernanza y cumplimiento
+## Joining Data in SQL
+- 📅 Completion Date: May 2025 
+- 📜 Issued by: DataCamp 
+- 📎Certificate: [Joining Data in SQL](./Datacamp-Joining_Data_in_SQL/certificate.pdf)
 
-## 📎 Certificado
+## Introduction to SQL
+- 📅 Completion Date: Apr 2025 
+- 📜 Issued by: DataCamp 
+- 📎Certificate: [Introduction to SQL](./Datacamp-Introduction_to_SQL/certificate.pdf)
 
-![Certificado AZ-900](./certificado.pdf) <!-- O certificado.png si es imagen -->
+## Análisis de datos con SQL
+- 📅 Completion Date: Jan 2025 
+- 📜 Issued by: Smart Data
+- 🔗 [View Credential Online](https://smartdata.com.pe/certificados/index.php?id=2025012704331733)
+- 📎Certificate: [Análisis de datos con SQL](./Smart-Data-Analisis_Datos_SQL/certificate.pdf)

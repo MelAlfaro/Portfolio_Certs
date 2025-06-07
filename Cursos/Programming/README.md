@@ -1,18 +1,11 @@
-# Programming
+# 💻 Programming
 
-- 📅 Fecha de obtención: [Tu fecha aquí]
-- 📜 Emitido por: Microsoft
-- 🔗 [Ver credencial en línea](#) <!-- reemplaza con tu enlace si tienes uno -->
+## Intermediate Python
+- 📅 Completion Date: Feb 2025 
+- 📜 Issued by: DataCamp
+- 📎Certificate: [Intermediate Python](./Python/Datacamp-Intermediate_Python/certificate.pdf)
 
-## 📝 Descripción
-
-La certificación AZ-900 valida conocimientos fundamentales sobre los servicios en la nube y cómo se proporcionan con Microsoft Azure. Abarca conceptos como:
-
-- Principios de la computación en la nube
-- Servicios principales de Azure
-- Precios y SLA de Azure
-- Gobernanza y cumplimiento
-
-## 📎 Certificado
-
-![Certificado AZ-900](./certificado.pdf) <!-- O certificado.png si es imagen -->
+## Introduction to Python
+- 📅 Completion Date: Feb 2025 
+- 📜 Issued by: DataCamp
+- 📎Certificate: [Introduction to Python](./Python/Datacamp-Introduction_to_Python/certificate.pdf)

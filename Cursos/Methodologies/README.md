@@ -1,18 +1,31 @@
-# Agile and Scrum Methodologies
+# 🧩 Methodologies
 
-- 📅 Fecha de obtención: [Tu fecha aquí]
-- 📜 Emitido por: Microsoft
-- 🔗 [Ver credencial en línea](#) <!-- reemplaza con tu enlace si tienes uno -->
+## Kanban Member
+- 📅 Completion Date: Feb 2023 
+- 📜 Issued by: 3M 
+- 📎Certificate: [Kanban Member](./Agile_and_Scrum//Kanban_Member.pdf)
 
-## 📝 Descripción
+## Scrum Team Member
+- 📅 Completion Date: Feb 2023 
+- 📜 Issued by: 3M 
+- 📎Certificate: [Scrum Team Member](./Agile_and_Scrum//Scrum_Team_Member.pdf)
 
-La certificación AZ-900 valida conocimientos fundamentales sobre los servicios en la nube y cómo se proporcionan con Microsoft Azure. Abarca conceptos como:
+## Advanced Scrum Master
+- 📅 Completion Date: Set 2022
+- 📜 Issued by: 3M 
+- 📎Certificate: [Advanced Scrum Master](./Agile_and_Scrum//Advanced_Scrum_Master.jpeg)
 
-- Principios de la computación en la nube
-- Servicios principales de Azure
-- Precios y SLA de Azure
-- Gobernanza y cumplimiento
+## Certified Product Owner
+- 📅 Completion Date: Set 2022 
+- 📜 Issued by: 3M 
+- 📎Certificate: [Certified Product Owner](./Agile_and_Scrum//Certified_Product_Owner.jpeg)
 
-## 📎 Certificado
+## Advanced Scrum Member
+- 📅 Completion Date: Aug 2022
+- 📜 Issued by: 3M 
+- 📎Certificate: [Advanced Scrum Member](./Agile_and_Scrum//Advanced_Scrum_Member.pdf)
 
-![Certificado AZ-900](./certificado.pdf) <!-- O certificado.png si es imagen -->
+## Certified Scrum Master
+- 📅 Completion Date: May 2022 
+- 📜 Issued by: 3M 
+- 📎Certificate: [Certified Scrum Master](./Agile_and_Scrum/Certified_Scrum_Master.pdf)
