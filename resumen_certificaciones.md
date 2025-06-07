@@ -6,7 +6,7 @@
 
 ## 🧱 Databricks Certified Data Engineer Associate
 - 📅 Issued: XXXXX 2025
-- 📜 Issued by: Microsoft
+- 📜 Issued by: Databricks
 - 🔗 [View Credential Online](#)
 
 ## 🤖 Microsoft Azure AI Fundamentals (AI-900)
@@ -14,7 +14,7 @@
 - 📜 Issued by: Microsoft
 - 🔗 [View Credential Online](https://learn.microsoft.com/api/credentials/share/es-es/MelvinAlfaroDalolio-8357/5E88B37574AA015E?sharingId)
 
-## ☁️ Certification: Microsoft Azure Fundamentals (AZ-900)
+## ☁️ Microsoft Azure Fundamentals (AZ-900)
 - 📅 Issued: March 2025
 - 📜 Issued by: Microsoft
 - 🔗 [View Credential Online](https://learn.microsoft.com/api/credentials/share/en-us/MelvinAlfaroDalolio-8357/9A16FFF3F3D30531?sharingId)
