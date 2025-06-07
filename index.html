@@ -1,55 +1,103 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>My Certifications & Courses</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
   <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
     body {
-      font-family: 'Segoe UI', sans-serif;
-      max-width: 800px;
-      margin: 40px auto;
-      padding: 0 20px;
-      line-height: 1.6;
-      background-color: #f9f9f9;
+      font-family: 'Inter', sans-serif;
+      background-color: #f4f6f8;
       color: #333;
+      padding: 2rem;
     }
     h1 {
-      color: #e34c26;
+      font-size: 2.5rem;
+      text-align: center;
+      margin-bottom: 1.5rem;
+      color: #1e293b;
     }
-    a {
-      color: #007acc;
+    .section {
+      max-width: 1000px;
+      margin: 0 auto 2rem auto;
+    }
+    .card-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1.5rem;
+    }
+    .card {
+      background-color: #fff;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+      padding: 1.5rem;
+      transition: transform 0.2s ease;
       text-decoration: none;
+      color: inherit;
     }
-    a:hover {
-      text-decoration: underline;
+    .card:hover {
+      transform: translateY(-5px);
     }
-    .cert-section {
-      margin-bottom: 40px;
+    .card h3 {
+      font-size: 1.25rem;
+      margin-bottom: 0.5rem;
+      color: #0f172a;
+    }
+    .card p {
+      font-size: 0.95rem;
+      color: #475569;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.9rem;
+      margin-top: 3rem;
+      color: #64748b;
     }
   </style>
 </head>
 <body>
+  <h1>📚 My Certifications & Courses</h1>
 
-  <h1>📜 My Certifications & Courses</h1>
-  <p>Welcome! Here you'll find a curated list of my certifications, learning progress, and professional development.</p>
-
-  <div class="cert-section">
+  <div class="section">
     <h2>🎓 Featured Certifications</h2>
-    <ul>
-      <li><a href="./Certifications/AI_Machine_Learning/AI-900">AI-900: Azure AI Fundamentals</a></li>
-      <li><a href="./Certifications/Data_Engineering/DP-900">DP-900: Azure Data Fundamentals</a></li>
-      <li><a href="./Certifications/Data_Engineering/DP-700">DP-700: Microsoft Fabric Data Engineer</a></li>
-    </ul>
+    <div class="card-grid">
+      <a href="./Certifications/AI_Machine_Learning/AI-900" class="card">
+        <h3>AI-900: Azure AI Fundamentals</h3>
+        <p>Validates foundational knowledge of AI concepts and Microsoft Azure AI services.</p>
+      </a>
+      <a href="./Certifications/Data_Engineering/DP-900" class="card">
+        <h3>DP-900: Azure Data Fundamentals</h3>
+        <p>Covers core data concepts and how they are implemented using Microsoft Azure data services.</p>
+      </a>
+      <a href="./Certifications/Data_Engineering/DP-700" class="card">
+        <h3>DP-700: Microsoft Fabric Data Engineer</h3>
+        <p>Focuses on data integration, transformation, and analytics using Microsoft Fabric and related tools.</p>
+      </a>
+    </div>
   </div>
 
-  <div class="cert-section">
+  <div class="section">
     <h2>💼 Other Areas</h2>
-    <ul>
-      <li><a href="./Certifications/Human_Resources/Labor_Law_CR">Labor Law Training – Costa Rica</a></li>
-      <li><a href="./Certifications/Frameworks/Agile_and_Scrum">Agile & Scrum Certifications</a></li>
-    </ul>
+    <div class="card-grid">
+      <a href="./Certifications/Human_Resources/Labor_Law_CR" class="card">
+        <h3>Labor Law Training – Costa Rica</h3>
+        <p>Workshop on Costa Rican labor law essentials, rights, and HR responsibilities.</p>
+      </a>
+      <a href="./Certifications/Frameworks/Agile_and_Scrum" class="card">
+        <h3>Agile & Scrum Certifications</h3>
+        <p>Scrum Master, Product Owner, Team Member, and Kanban certificates covering agile methodologies.</p>
+      </a>
+    </div>
   </div>
 
+  <footer>
+    &copy; 2025 Melvin Alfaro Dalolio &mdash; Continuous Learning Journey
+  </footer>
 </body>
 </html>
