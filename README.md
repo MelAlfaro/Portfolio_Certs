@@ -2,7 +2,6 @@
 
 This repository contains an organized record of my certifications and completed courses across various technology areas. It is intended as a public showcase of my ongoing learning journey, especially in fields related to Data Engineering, Cloud Computing, Artificial Intelligence, and other areas of IT.
 You can also find a summary of all obtained certifications in the following file: [here](./resumen_certificaciones.md)
-
 #
 <br><br>
 
@@ -15,7 +14,7 @@ You can also find a summary of all obtained certifications in the following file
 ### 🤖 AI & Machine Learning
 - [AI-900: Microsoft Azure AI Fundamentals](./Certificaciones/AI_Machine_Learning/AI-900/README.md)
 
----
+#
 <br><br>
 
 ## 📚 Courses
