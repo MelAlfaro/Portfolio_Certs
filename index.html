@@ -3,101 +3,103 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>My Certifications & Courses</title>
+  <title>Certifications & Courses</title>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
   <style>
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
     body {
       font-family: 'Inter', sans-serif;
-      background-color: #f4f6f8;
-      color: #333;
+      margin: 0;
       padding: 2rem;
+      background-color: #f9fafb;
+      color: #1f2937;
     }
     h1 {
-      font-size: 2.5rem;
-      text-align: center;
-      margin-bottom: 1.5rem;
-      color: #1e293b;
+      font-size: 2rem;
+      margin-bottom: 1rem;
+      color: #111827;
     }
-    .section {
-      max-width: 1000px;
-      margin: 0 auto 2rem auto;
+    h2 {
+      margin-top: 2rem;
+      color: #1e40af;
     }
-    .card-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-      gap: 1.5rem;
+    ul {
+      list-style-type: none;
+      padding: 0;
     }
-    .card {
-      background-color: #fff;
-      border-radius: 12px;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.05);
-      padding: 1.5rem;
-      transition: transform 0.2s ease;
-      text-decoration: none;
-      color: inherit;
+    li {
+      margin-bottom: 0.75rem;
+      padding: 0.75rem 1rem;
+      border-left: 4px solid #3b82f6;
+      background-color: #ffffff;
+      box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+      transition: background-color 0.2s;
     }
-    .card:hover {
-      transform: translateY(-5px);
+    li:hover {
+      background-color: #f1f5f9;
     }
-    .card h3 {
-      font-size: 1.25rem;
-      margin-bottom: 0.5rem;
-      color: #0f172a;
+    .tag {
+      display: inline-block;
+      font-size: 0.75rem;
+      background-color: #e0f2fe;
+      color: #0369a1;
+      padding: 0.2rem 0.5rem;
+      border-radius: 0.25rem;
+      margin-left: 0.5rem;
     }
-    .card p {
-      font-size: 0.95rem;
-      color: #475569;
-    }
-    footer {
-      text-align: center;
+    .subtitle {
+      color: #4b5563;
       font-size: 0.9rem;
-      margin-top: 3rem;
-      color: #64748b;
     }
   </style>
 </head>
 <body>
-  <h1>📚 My Certifications & Courses</h1>
+  <h1>📚 Certifications & Courses</h1>
 
-  <div class="section">
-    <h2>🎓 Featured Certifications</h2>
-    <div class="card-grid">
-      <a href="./Certifications/AI_Machine_Learning/AI-900" class="card">
-        <h3>AI-900: Azure AI Fundamentals</h3>
-        <p>Validates foundational knowledge of AI concepts and Microsoft Azure AI services.</p>
-      </a>
-      <a href="./Certifications/Data_Engineering/DP-900" class="card">
-        <h3>DP-900: Azure Data Fundamentals</h3>
-        <p>Covers core data concepts and how they are implemented using Microsoft Azure data services.</p>
-      </a>
-      <a href="./Certifications/Data_Engineering/DP-700" class="card">
-        <h3>DP-700: Microsoft Fabric Data Engineer</h3>
-        <p>Focuses on data integration, transformation, and analytics using Microsoft Fabric and related tools.</p>
-      </a>
-    </div>
-  </div>
+  <p>This repository documents my ongoing learning journey in technology, with a focus on data engineering, cloud computing, AI, and IT. Below is an organized list of the certifications and courses I’ve completed.</p>
 
-  <div class="section">
-    <h2>💼 Other Areas</h2>
-    <div class="card-grid">
-      <a href="./Certifications/Human_Resources/Labor_Law_CR" class="card">
-        <h3>Labor Law Training – Costa Rica</h3>
-        <p>Workshop on Costa Rican labor law essentials, rights, and HR responsibilities.</p>
-      </a>
-      <a href="./Certifications/Frameworks/Agile_and_Scrum" class="card">
-        <h3>Agile & Scrum Certifications</h3>
-        <p>Scrum Master, Product Owner, Team Member, and Kanban certificates covering agile methodologies.</p>
-      </a>
-    </div>
-  </div>
+  <h2>🎓 Certifications</h2>
+  <ul>
+    <li>
+      Microsoft Certified: Azure Fundamentals <span class="tag">AZ-900</span><br/>
+      <span class="subtitle">Issued by Microsoft · Apr 2025</span>
+    </li>
+    <li>
+      Microsoft Certified: Azure Data Fundamentals <span class="tag">DP-900</span><br/>
+      <span class="subtitle">Issued by Microsoft · Apr 2025</span>
+    </li>
+    <li>
+      Microsoft Certified: Azure AI Fundamentals <span class="tag">AI-900</span><br/>
+      <span class="subtitle">Issued by Microsoft · Apr 2025</span>
+    </li>
+    <li>
+      Microsoft Certified: Fabric Analytics Engineer Associate <span class="tag">DP-700</span><br/>
+      <span class="subtitle">Issued by Microsoft · Planned 2025</span>
+    </li>
+    <li>
+      Labor Law in Costa Rica<br/>
+      <span class="subtitle">Training Certificate · 2025</span>
+    </li>
+  </ul>
 
-  <footer>
-    &copy; 2025 Melvin Alfaro Dalolio &mdash; Continuous Learning Journey
-  </footer>
+  <h2>🧠 Courses</h2>
+  <ul>
+    <li>
+      Agile & Scrum Fundamentals<br/>
+      <span class="subtitle">Scrum Master, Product Owner, Team Member, Kanban Member</span>
+    </li>
+    <li>
+      Data Engineering Concepts<br/>
+      <span class="subtitle">ETL, Data Warehousing, Spark, Airflow</span>
+    </li>
+    <li>
+      Programming in Python<br/>
+      <span class="subtitle">Python Basics, Data Structures, OOP</span>
+    </li>
+    <li>
+      Working with Databases<br/>
+      <span class="subtitle">SQL, PostgreSQL, MongoDB</span>
+    </li>
+  </ul>
+
 </body>
 </html>
