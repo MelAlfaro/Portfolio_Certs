@@ -4,6 +4,11 @@
 - 📜 Issued by: Microsoft
 - 🔗 [View Credential Online](#)
 
+## 🧱 Databricks Certified Data Engineer Associate
+- 📅 Issued: XXXXX 2025
+- 📜 Issued by: Microsoft
+- 🔗 [View Credential Online](#)
+
 ## 🤖 Microsoft Azure AI Fundamentals (AI-900)
 - 📅 Issued: April 2025
 - 📜 Issued by: Microsoft
