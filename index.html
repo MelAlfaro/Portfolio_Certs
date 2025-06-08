@@ -1,105 +1,140 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Certifications & Courses</title>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
-  <style>
-    body {
-      font-family: 'Inter', sans-serif;
-      margin: 0;
-      padding: 2rem;
-      background-color: #f9fafb;
-      color: #1f2937;
-    }
-    h1 {
-      font-size: 2rem;
-      margin-bottom: 1rem;
-      color: #111827;
-    }
-    h2 {
-      margin-top: 2rem;
-      color: #1e40af;
-    }
-    ul {
-      list-style-type: none;
-      padding: 0;
-    }
-    li {
-      margin-bottom: 0.75rem;
-      padding: 0.75rem 1rem;
-      border-left: 4px solid #3b82f6;
-      background-color: #ffffff;
-      box-shadow: 0 1px 2px rgba(0,0,0,0.05);
-      transition: background-color 0.2s;
-    }
-    li:hover {
-      background-color: #f1f5f9;
-    }
-    .tag {
-      display: inline-block;
-      font-size: 0.75rem;
-      background-color: #e0f2fe;
-      color: #0369a1;
-      padding: 0.2rem 0.5rem;
-      border-radius: 0.25rem;
-      margin-left: 0.5rem;
-    }
-    .subtitle {
-      color: #4b5563;
-      font-size: 0.9rem;
-    }
-  </style>
-</head>
-<body>
-  <h1>📚 Certifications & Courses</h1>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Certifications & Courses</title>
+    <style>
+      body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background-color: #f9f9f9;
+        color: #333;
+        margin: 2rem;
+      }
 
-  <p>This repository documents my ongoing learning journey in technology, with a focus on data engineering, cloud computing, AI, and IT. Below is an organized list of the certifications and courses I’ve completed.</p>
+      h1, h2 {
+        color: #2c3e50;
+      }
 
-  <h2>🎓 Certifications</h2>
-  <ul>
-    <li>
-      Microsoft Certified: Azure Fundamentals <span class="tag">AZ-900</span><br/>
-      <span class="subtitle">Issued by Microsoft · Apr 2025</span>
-    </li>
-    <li>
-      Microsoft Certified: Azure Data Fundamentals <span class="tag">DP-900</span><br/>
-      <span class="subtitle">Issued by Microsoft · Apr 2025</span>
-    </li>
-    <li>
-      Microsoft Certified: Azure AI Fundamentals <span class="tag">AI-900</span><br/>
-      <span class="subtitle">Issued by Microsoft · Apr 2025</span>
-    </li>
-    <li>
-      Microsoft Certified: Fabric Analytics Engineer Associate <span class="tag">DP-700</span><br/>
-      <span class="subtitle">Issued by Microsoft · Planned 2025</span>
-    </li>
-    <li>
-      Labor Law in Costa Rica<br/>
-      <span class="subtitle">Training Certificate · 2025</span>
-    </li>
-  </ul>
+      .container {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 2rem;
+      }
 
-  <h2>🧠 Courses</h2>
-  <ul>
-    <li>
-      Agile & Scrum Fundamentals<br/>
-      <span class="subtitle">Scrum Master, Product Owner, Team Member, Kanban Member</span>
-    </li>
-    <li>
-      Data Engineering Concepts<br/>
-      <span class="subtitle">ETL, Data Warehousing, Spark, Airflow</span>
-    </li>
-    <li>
-      Programming in Python<br/>
-      <span class="subtitle">Python Basics, Data Structures, OOP</span>
-    </li>
-    <li>
-      Working with Databases<br/>
-      <span class="subtitle">SQL, PostgreSQL, MongoDB</span>
-    </li>
-  </ul>
+      .column:first-child {
+        flex: 0 0 63%;
+        min-width: 320px;
+      }
 
-</body>
+      .column:last-child {
+        flex: 0 0 35%;
+        min-width: 320px;
+      }
+
+      p {
+        max-width: 100%;
+      }
+
+      ul {
+        list-style-type: none;
+        padding: 0;
+      }
+
+      li {
+        margin-bottom: 0.5rem;
+      }
+
+      a.cert-link {
+        text-decoration: none;
+        display: block;
+        background-color: #eee;
+        color: #333;
+        padding: 0.75rem 1rem;
+        border-radius: 6px;
+        font-weight: 500;
+        transition: background-color 0.3s;
+        text-align: left;
+        width: 100%;
+        box-sizing: border-box;
+      }
+
+      a.cert-link:hover {
+        background-color: #ddd;
+      }
+
+      section {
+        margin-bottom: 2rem;
+      }
+
+      h2 {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        font-size: 1.25rem;
+      }
+
+      .section-block {
+        margin-bottom: 2rem;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      
+      <div class="column">
+        <h1>💼 Projects</h1>
+        <section class="section-block">
+          <p style="padding-bottom: 3rem;">
+            Explore my growing portfolio of Data Engineering work, featuring end-to-end pipelines, data warehousing strategies, and integrations with cloud-native services.
+            Each project reflects a focus on scalability, performance optimization, and data governance best practices.
+          </p>          
+          <ul>
+            <li><a class="cert-link" href="#">Data Pipeline with Azure Synapse</a></li>
+            <li><a class="cert-link" href="#">ETL with Python & Airflow</a></li>
+            <li><a class="cert-link" href="#">Fabric Data Lakehouse Demo</a></li>
+            <li><a class="cert-link" href="#">Sales Dashboard in Power BI</a></li>
+          </ul>
+        </section>
+      </div>
+
+      <div class="column">
+        <h1>🎓 Certifications & Courses</h1>
+        <p>This section serves as a curated list of my certifications and completed courses across various areas of IT, such as Data Engineering, Cloud Computing, Artificial Intelligence, and more. Click on each item to view detailed information, including descriptions, acquisition dates, and credential files.</p>
+
+        <section class="section-block">
+          <h2>📝 Certifications</h2>
+          <ul>
+            <li><a class="cert-link" href="#">🧱 Databricks Certified Data Engineer Associate</a></li>
+            <li><a class="cert-link" href="#">🛠️ DP-700: Microsoft Fabric Data Engineer</a></li>
+            <li><a class="cert-link" href="#">🤖 AI-900: Microsoft Azure AI Fundamentals</a></li>
+            <li><a class="cert-link" href="#">📈 DP-900: Microsoft Azure Data Fundamentals</a></li>
+            <li><a class="cert-link" href="./Certificaciones/Cloud_Computing/AZ-900/az900.html">☁️ AZ-900: Microsoft Azure Fundamentals</a></li>
+          </ul>
+        </section>
+
+        <section class="section-block">
+          <h2>📚 Courses</h2>
+          <ul>
+            <li><a class="cert-link" href="#">🛠️ Data Engineering</a></li>
+            <li><a class="cert-link" href="#">🗄️ Databases</a></li>
+            <li><a class="cert-link" href="#">💻 Programming</a></li>
+            <li><a class="cert-link" href="#">🧩 Methodologies</a></li>
+            <li><a class="cert-link" href="#">🏛️ Business</a></li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>📄 Summary</h2>
+          <ul>
+            <li>
+              <a class="cert-link" href="#">📄 You can also find a summary of all obtained certifications and course completion certificates here</a>
+            </li>
+          </ul>
+        </section>
+        
+      </div>
+      
+    </div>
+  </body>
 </html>

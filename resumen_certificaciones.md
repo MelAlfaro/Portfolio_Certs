@@ -1,5 +1,5 @@
 # CERTIFICATIONS
-## 🛠️ Microsoft Fabric Data Engineer
+## 🛠️ Microsoft Fabric Data Engineer (DP-700)
 - 📅 Issued: XXXXX 2025
 - 📜 Issued by: Microsoft
 - 🔗 [View Credential Online](#)
