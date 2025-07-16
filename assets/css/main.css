@@ -504,7 +504,7 @@ section,
 .section {
   color: var(--default-color);
   background-color: var(--background-color);
-  padding: 60px 0;
+  padding: 20px 0;
   overflow: clip;
 }
 
@@ -544,7 +544,7 @@ section,
 --------------------------------------------------------------*/
 .hero {
   width: 100%;
-  min-height: 100vh;
+  min-height: 30vh;
   position: relative;
   padding: 80px 0;
   display: flex;
@@ -1165,7 +1165,7 @@ section,
 }
 
 .portfolio-details .portfolio-info {
-  padding: 30px;
+  padding: 10px;
   box-shadow: 0px 0 30px rgba(0, 0, 0, 0.1);
 }
 
@@ -1209,6 +1209,13 @@ section,
   padding: 10px 30px;
   border: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
   margin-bottom: 20px;
+}
+
+.service-details .skills {
+  color: var(--default-color);
+  background-color: var(--background-color);
+  padding: 10px 0;
+  overflow: clip;
 }
 
 .service-details .services-list a {
@@ -1256,14 +1263,14 @@ section,
 }
 
 .service-details ul li {
-  padding: 5px 0;
+  padding: 2px 0;
   display: flex;
   align-items: center;
 }
 
 .service-details ul i {
   font-size: 20px;
-  margin-right: 8px;
+  margin-right: 5px;
   color: var(--accent-color);
 }
 
